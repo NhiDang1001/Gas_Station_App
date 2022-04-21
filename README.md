@@ -1,5 +1,7 @@
 # Gas_Station_App
 
+- Link to code: [here](https://github.com/NhiDang1001/Gas_Station_App/blob/main/GasStationApp.py)
+
 Gas station app. The app menu allows a customer to fill gas, and a manager to get sales information, reset totals, and change gas prices. 
 
 ### Functions used by customer
